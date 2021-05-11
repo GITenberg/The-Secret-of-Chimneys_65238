@@ -1,0 +1,24 @@
+_repo: The-Secret-of-Chimneys_65238
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Christie, Agatha
+    alias: Christie, Agatha Mary Clarissa Miller
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '451'
+    url: http://www.gutenberg.org/2009/agents/451
+    wikipedia: https://en.wikipedia.org/wiki/Agatha_Christie
+description: ''
+gutenberg_issued: '2021-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Secret of Chimneys
+url: http://www.gutenberg.org/ebooks/65238
